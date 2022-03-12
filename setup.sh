@@ -16,6 +16,7 @@ cd termux-login
 echo installed
 rm termuxlogin.whl
 rm setup.sh
-espeak -v Annie -s 1 -p 140 Termux Login Installed
 bash login
+espeak -v Annie -s 1 -p 140 Termux Login Installed
+
 
