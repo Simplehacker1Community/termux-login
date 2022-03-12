@@ -7,6 +7,7 @@ Installation
 wget -O - https://raw.githubusercontent.com/Simplehacker1Community/termux-login/simplehacker/setup.sh | bash
 
 <br>
+<pre>
 $ bash login
 Features
 bash login, - Install Termux login
